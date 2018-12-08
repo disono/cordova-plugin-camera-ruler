@@ -1,0 +1,25 @@
+{
+  "name": "cordova-plugin-camera-ruler",
+  "version": "1.0.0",
+  "description": "Camera Ruler for Cordova",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/disono/cordova-plugin-camera-ruler.git"
+  },
+  "author": "Archie Disono",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/disono/cordova-plugin-camera-ruler/issues"
+  },
+  "homepage": "hhttps://github.com/disono/cordova-plugin-camera-ruler#readme",
+  "cordova": {
+    "id": "cordova-plugin-camera-rule",
+    "platforms": [
+      "android"
+    ]
+  }
+}

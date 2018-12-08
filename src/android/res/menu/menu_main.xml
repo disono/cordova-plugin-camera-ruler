@@ -1,0 +1,26 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context=".MainActivity">
+
+    <!--<item android:id="@+id/action_settings" android:title="@string/action_settings"
+        android:orderInCategory="100" app:showAsAction="never" />-->
+    <item
+        android:id="@+id/action_takePicture"
+        android:orderInCategory="1"
+        android:title="@string/btn_takePicture"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_choosePhoto"
+        android:orderInCategory="2"
+        android:title="@string/action_choosePhoto"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_cleanStorage"
+        android:orderInCategory="3"
+        android:title="@string/action_cleanStorage"
+        app:showAsAction="never" />
+
+</menu>
